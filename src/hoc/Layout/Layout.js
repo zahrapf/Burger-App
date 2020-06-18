@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import Aux from '../../hoc/Aux';
-import Toolbar from '../Navigation/Toolbar/Toolbar';
+import Aux from '../Aux/Aux';
+import Toolbar from '../../components/Navigation/Toolbar/Toolbar';
 import './Layout.css';
-import SideDrawer from '../Navigation/SideDrawer/SideDrawer';
+import SideDrawer from '../../components/Navigation/SideDrawer/SideDrawer';
 
-class layout extends Component {
+class Layout extends Component {
     
     state = {
         showSideDrawer: true
@@ -35,4 +35,4 @@ class layout extends Component {
     }
 }
 
-export default layout;
+export default Layout;
