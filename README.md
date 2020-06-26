@@ -1,3 +1,5 @@
+-- Project from "React - The Complete Guide (incl Hooks, React Router, Redux)"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
